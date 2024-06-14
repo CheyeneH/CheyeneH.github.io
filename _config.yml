@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "IMG_9910.jpeg"
   name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : "she/her"
+  bio              : "Senior Mathematics Major, Chemistry Minor attending Howard University"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
